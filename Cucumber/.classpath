@@ -23,5 +23,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Downloads/selenium-java-4.1.0/selenium-api-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Downloads/selenium-java-4.1.0/selenium-chrome-driver-4.1.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

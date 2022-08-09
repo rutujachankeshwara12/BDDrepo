@@ -1,5 +1,5 @@
 Feature: Login in application
-
+@sanity
   Scenario Outline: Login with valid and invalid creaditionals
     Given Open the browser
     And Navigate to "https://beta.synkdup.com/user/login/jobseeker"

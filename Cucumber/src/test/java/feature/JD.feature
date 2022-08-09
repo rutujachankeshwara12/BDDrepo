@@ -1,8 +1,9 @@
 Feature: User can apply to job
 
+@smoke 
   Scenario Outline: Apply to job through apply form.
     Given Open the browser
-    And Navigate to "https://beta.amazjobs.com/job/384305215-58108"
+    And Navigate to "https://beta.amazjobs.com/job/389444311-37206"
     When Apply with Name as "<name>" and Email as "<email>" and PhoneNo as "<phone>"
     Then Click on apply button
 
